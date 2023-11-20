@@ -72,6 +72,6 @@ make html
 Run the following command to export PDF:
 
 ```
-make html
+make pdf
 ```
 
